@@ -32,7 +32,3 @@ Thanks for the interesting idea, it was a pleasure to work on this. I have used 
     *   createForum - creates a forum, adds the authenticated user as the first member of this forum
     *   postMessage - checks if the user is a member of the specified forum and posts a message to the forum from the name of the authenticated user
     *   joinForum - checks if the user is not a member of the specified forum and adds the authenticated user to the specified forum member list.
-
-**Global GraphQL schema:**
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/763853e479287cee87462549c34b16725e4b90a3bb6ac98e.png)
