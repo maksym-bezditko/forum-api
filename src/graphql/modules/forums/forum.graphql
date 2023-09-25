@@ -1,0 +1,12 @@
+type Forum {
+  id: String!
+  title: String!
+  users: [User!]!
+  isPrivate: Boolean!
+  messages: [Message!]!
+}
+
+input CreateForumInput {
+  title: String!
+  isPrivate: Boolean!
+}

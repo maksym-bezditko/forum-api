@@ -1,0 +1,11 @@
+type Message {
+  id: String!
+  author: User!
+  text: String!
+  createdAt: DateTime!
+}
+
+input PostMessageInput {
+  forumId: String!
+  text: String!
+}

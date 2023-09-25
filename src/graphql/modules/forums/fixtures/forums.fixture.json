@@ -1,0 +1,52 @@
+[
+  {
+    "id": "c32199d5-7874-4953-9966-921e8f06408e",
+    "isPrivate": true,
+    "messageIds": [],
+    "title": "Private group",
+    "userIds": [
+      "58e3a74a-93d1-4179-8880-7413295e0105"
+    ]
+  },
+  {
+    "id": "33043510-e5e8-47b4-82a7-6ab292534e7f",
+    "isPrivate": false,
+    "messageIds": [
+      "edd7cf70-5d1e-4b57-9b5d-4e6af80affd8"
+    ],
+    "title": "TS programmers",
+    "userIds": []
+  },
+  {
+    "id": "b53fd374-9c3a-4f11-8231-759d34764cf3",
+    "isPrivate": false,
+    "messageIds": [
+      "d042dfe9-d154-4f37-abf3-5a61dfc1d04c",
+      "f34de3a9-e094-4629-954a-abda0b2d5446",
+      "8ca71574-b7b2-43fd-9d29-2d10c34bc103",
+      "42ccbaa5-611c-442a-8f41-e4bdff3429d4"
+    ],
+    "title": "C++ programmers",
+    "userIds": [
+      "58e3a74a-93d1-4179-8880-7413295e0105"
+    ]
+  },
+  {
+    "id": "af224cf0-1911-4f6d-9e50-429385736b73",
+    "isPrivate": false,
+    "messageIds": [],
+    "title": "devops community",
+    "userIds": [
+      "58e3a74a-93d1-4179-8880-7413295e0105"
+    ]
+  },
+  {
+    "id": "18ad0225-89d8-4dd0-a3b2-cd1c1b1de6fa",
+    "isPrivate": true,
+    "messageIds": [],
+    "title": "text",
+    "userIds": [
+      "58e3a74a-93d1-4179-8880-7413295e0105"
+    ]
+  }
+]

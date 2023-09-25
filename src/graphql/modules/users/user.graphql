@@ -1,0 +1,9 @@
+type User {
+  id: String!
+  fullName: String!
+  profileImageUrl: String!
+}
+
+input JoinForumInput {
+  forumId: String!
+}
