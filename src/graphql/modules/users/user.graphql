@@ -1,9 +1,32 @@
 type User {
   id: String!
+  email: String!
   fullName: String!
   profileImageUrl: String!
 }
 
+type AuthResponse {
+  token: String!
+  user: User!
+}
+
 input JoinForumInput {
   forumId: String!
+}
+
+input LoginInput {
+  email: String!
+  password: String!
+}
+
+input RegisterInput {
+  email: String!
+  password: String!
+  fullName: String!
+  profileImageUrl: String
+}
+
+extend type Mutation {
+  login(email: String!, password: String!): AuthResponse!
+  register(input: RegisterInput!): AuthResponse!
 }
