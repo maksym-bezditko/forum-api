@@ -1,7 +1,9 @@
 [
   {
-    "id": "a982fa46-eeaa-4164-bd4a-75ccfef333de",
-    "fullName": "Taras Shevchenko",
-    "profileImageUrl": "https://google.com/taras.jpg"
+    "id": "1",
+    "email": "john@example.com",
+    "password": "$2a$10$8DRwS8NkGfh8WuxGgd/9p.kGtRk55xI5eMZNrZ2D5UFeT1fN8CzK2",
+    "fullName": "John Doe",
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/1.jpg"
   }
 ]
